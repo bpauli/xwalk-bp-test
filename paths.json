@@ -1,0 +1,9 @@
+{
+  "mappings": [
+    "/content/xwalk-bp-test/:/"
+  ],
+  "includes": [
+    "/content/xwalk-bp-test/",
+    "/content/dam/xwalk-bp-test/"
+  ]
+}

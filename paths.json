@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/launches/:/launches/",
-    "/content/xwalk-bp-test/:/"
+    "/content/xwalk-bp-test/:/",
+    "/content/launches/:/launches/"
   ],
   "includes": [
     "/content/xwalk-bp-test/",
